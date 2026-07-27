@@ -1,12 +1,12 @@
-# Multi-Publish 官网
+# 汤姆鱼 官网
 
-Multi-Publish 官方网站的静态页面仓库。
+汤姆鱼 官方网站的静态页面仓库。
 
 ## 关于项目
 
-Multi-Publish 是一个开源 AI 内容工作站：一份内容，触达全网。支持 15+ 平台一键发布、50+ AI 服务商、13 视频创作管线，Cookie 本地 AES-256-GCM 加密，可离线运行。
+汤姆鱼 是一个开源 AI 内容工作站：一份内容，触达全网。支持 15+ 平台一键发布、50+ AI 服务商、13 视频创作管线，Cookie 本地 AES-256-GCM 加密，可离线运行。
 
-本仓库仅包含官网相关的代码和资源，独立于 [multi-publish](https://github.com/multi-publish/multi-publish) 主项目。
+本仓库仅包含官网相关的代码和资源，独立于 [汤姆鱼](https://github.com/汤姆鱼/汤姆鱼) 主项目。
 
 ## 文件结构
 
@@ -51,4 +51,4 @@ npx serve .
 
 ## License
 
-MIT License © 2026 Multi-Publish
+© 2026 汤姆鱼 · 保留所有权利

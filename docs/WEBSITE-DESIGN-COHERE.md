@@ -1,6 +1,6 @@
-# Multi-Publish 官网 Cohere 风格设计规范 v1.0
+# 汤姆鱼 官网 Cohere 风格设计规范 v1.0
 
-> 基于 https://cohere.com/ 官网视觉语言，为 Multi-Publish 官网制定的专项设计规范
+> 基于 https://cohere.com/ 官网视觉语言，为 汤姆鱼 官网制定的专项设计规范
 > 配套文档：[WEBSITE-PLAN.md](WEBSITE-PLAN.md) — 官网完整方案
 > 原型文件：[website-home-cohere.html](website-home-cohere.html)
 > 文档日期：2026-07-26
@@ -20,7 +20,7 @@
 
 ### 与 Cohere 的对应关系
 
-| Cohere 元素 | Multi-Publish 适配 |
+| Cohere 元素 | 汤姆鱼 适配 |
 |------------|-------------------|
 | "Own your AI" 大标题 | "From Idea to Everywhere" |
 | 数据/基础设施叙事 | 内容工作站/多平台分发叙事 |
@@ -591,7 +591,7 @@ mobile: 640px
 
 ## 16. 维护规则
 
-- 本规范为 Multi-Publish 官网 Cohere 风格的**唯一设计基准**
+- 本规范为 汤姆鱼 官网 Cohere 风格的**唯一设计基准**
 - 任何官网视觉调整需同步更新本规范
 - 修改需 PR Review + 至少 1 名核心维护者批准
 - 版本号变更需在文末附 changelog
