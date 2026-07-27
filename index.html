@@ -27,7 +27,7 @@ body { font-family: 'Inter', Arial, sans-serif; font-size: 16px; line-height: 1.
 .top-nav { position: fixed; top: 0; left: 0; right: 0; height: var(--nav-height); background: rgba(255,255,255,0.95); backdrop-filter: blur(12px); border-bottom: 1px solid transparent; z-index: 1000; transition: border-color 0.3s ease, box-shadow 0.3s ease; }
 .top-nav.scrolled { border-bottom-color: var(--hairline); }
 .nav-inner { height: 100%; display: flex; align-items: center; justify-content: space-between; }
-.nav-brand { display: flex; align-items: center; gap: 8px; font-family: 'Space Grotesk', Inter, sans-serif; font-size: 20px; font-weight: 500; color: var(--primary); text-decoration: none; letter-spacing: -0.5px; }
+.nav-brand { display: flex; align-items: center; gap: 8px; text-decoration: none; } .nav-brand img { height: 40px; width: auto; }
 .brand-dot { width: 8px; height: 8px; border-radius: var(--r-pill); background: var(--coral); }
 .nav-links { display: flex; align-items: center; gap: 6px; }
 .nav-link { font-family: 'Inter', sans-serif; font-size: 14px; font-weight: 500; color: var(--body-muted); text-decoration: none; padding: 8px 12px; border-radius: 8px; transition: all 0.2s ease; }
@@ -203,7 +203,7 @@ body { font-family: 'Inter', Arial, sans-serif; font-size: 16px; line-height: 1.
 <!-- Navigation -->
 <nav class="top-nav" id="topNav">
   <div class="container nav-inner">
-    <a href="#" class="nav-brand"><span class="brand-dot"></span>汤姆鱼</a>
+    <a href="#" class="nav-brand"><img src="images/logo.png" alt="汤姆鱼 Tamnish"></a>
     <div class="nav-links">
       <a href="#features" class="nav-link">功能</a>
       <a href="#platforms" class="nav-link">平台</a>
@@ -521,7 +521,7 @@ body { font-family: 'Inter', Arial, sans-serif; font-size: 16px; line-height: 1.
   <div class="container">
     <div class="footer-grid">
       <div class="footer-brand">
-        <a href="#" class="brand"><span class="brand-dot"></span>汤姆鱼</a>
+        <a href="#" class="brand"><img src="images/logo.png" alt="汤姆鱼" style="height:48px;width:auto;margin-bottom:8px;display:block"></a>
         <p>From Idea to Everywhere<br>AI 内容工作站 · 一份内容，触达全网。</p>
       </div>
       <div class="footer-col">
